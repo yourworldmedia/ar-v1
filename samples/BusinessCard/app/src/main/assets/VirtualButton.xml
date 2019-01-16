@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="businesscard" size="170.000000 108.320076" >
+      <VirtualButton name="play" rectangle="-70.21 -2.03 -8.95 -18.93" enabled="true" />
+    </ImageTarget>
+    <ImageTarget name="greenhope" size="296.000000 209.272003" >
+      <VirtualButton name="play" rectangle="-30.0 30.0 30.0 -30.0" enabled="true" />
+    </ImageTarget>
+  </Tracking>
+</QCARConfig>

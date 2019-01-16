@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="regione" size="210.000000 279.600006"  >
+      <VirtualButton name="play" rectangle="-97.0 24.78 -55.0 4.78" enabled="true" />
+    </ImageTarget>
+  </Tracking>
+</QCARConfig>

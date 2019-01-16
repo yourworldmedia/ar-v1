@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\p1e\\AndroidStudioProjects\\vuforia-sdk-android-6-0-112\\samples\\BusinessCard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "C:\\Users\\p1e\\AndroidStudioProjects\\vuforia-sdk-android-6-0-112\\samples\\BusinessCard\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\p1e\\AndroidStudioProjects\\vuforia-sdk-android-6-0-112\\samples\\BusinessCard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "C:\\Users\\p1e\\AndroidStudioProjects\\vuforia-sdk-android-6-0-112\\samples\\BusinessCard\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pie\\AndroidStudioProjects\\vuforia-sdk-android-6-0-112\\samples\\BusinessCard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "C:\\Users\\Pie\\AndroidStudioProjects\\vuforia-sdk-android-6-0-112\\samples\\BusinessCard\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pie\\AndroidStudioProjects\\vuforia-sdk-android-6-0-112\\samples\\BusinessCard\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "C:\\Users\\Pie\\AndroidStudioProjects\\vuforia-sdk-android-6-0-112\\samples\\BusinessCard\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    }
+]
