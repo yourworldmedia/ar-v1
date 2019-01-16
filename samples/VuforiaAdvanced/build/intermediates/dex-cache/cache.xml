@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Pie\AndroidStudioProjects\vuforia-sdk-android-6-0-112\samples\VuforiaAdvanced\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66905ca2420130436829cc370a2a95bc49f8e666">
+        <dex dex="C:\Users\Pie\AndroidStudioProjects\vuforia-sdk-android-6-0-112\samples\VuforiaAdvanced\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_61843209f72c64eb4633e2cd976b00a2a7dbc08d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pie\AndroidStudioProjects\vuforia-sdk-android-6-0-112\samples\VuforiaAdvanced\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0bd0a9b36a02c4445a722a892d531f44c8af5bcf">
+        <dex dex="C:\Users\Pie\AndroidStudioProjects\vuforia-sdk-android-6-0-112\samples\VuforiaAdvanced\app\build\intermediates\pre-dexed\debug\instant-run_ea342c2db2953b47b09357b848b186f78a64fd8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pie\AndroidStudioProjects\vuforia-sdk-android-6-0-112\build\java\vuforia\Vuforia.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c2e5736390b929a2bcc06bd83804b520106c5df0">
+        <dex dex="C:\Users\Pie\AndroidStudioProjects\vuforia-sdk-android-6-0-112\samples\VuforiaAdvanced\app\build\intermediates\pre-dexed\debug\Vuforia_4f4ca1d5d4f8df806bc93e02e159131eff433a2a.jar" />
+    </item>
+
+</items>
